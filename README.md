@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35px"> ¡Hola! Soy SOFI!
 
 ### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="25px">
+=======
+# ¡Hola! Soy SOFI! 🐱✨
+>>>>>>> 06ff064 (GATITOS MEMES)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />

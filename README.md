@@ -1,22 +1,26 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35px"> ¡Hola! Soy SOFI!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35px"> ¡Hola! Soy [Tu Nombre]
 
 ### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0OEd9QIDdllqo/giphy.gif" width="250px">
 </p>
 
 ### 🚀 Mi Mundo
 
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C9x0nrDQ74BXoVstfW/giphy.gif" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unQ3IJU2RG7PEPN9QH/giphy.gif" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MWSRkVoNaC30A/giphy.gif" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
+- <img src="https://i.imgur.com/8Nf9vV0.png" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
+- <img src="https://i.imgur.com/6S3vEEn.png" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
+- <img src="https://i.imgur.com/m6oXWsc.png" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=100&section=header&text=Inventario%20Mágico%20👾&fontSize=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=180&section=header&text=Inventario%20Mágico%20👾&fontSize=40&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
 
 ### 🛠️ CRAFTEANDO MI INVENTARIO:
@@ -30,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f6eS95xHkQ7zL07A/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" width="150px">
 </p>
 <!--
 **ArrivillagaDAS/ArrivillagaDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

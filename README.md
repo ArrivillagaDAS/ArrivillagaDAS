@@ -14,12 +14,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0OEd9QIDdllqo/giphy.gif" width="250px">
 </p>
 
-### 🚀 Mi Mundo
+## 🚀 Mi Mundo
 
-- <img src="https://i.imgur.com/8Nf9vV0.png" width="30px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
-- <img src="https://i.imgur.com/6S3vEEn.png" width="30px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
-- <img src="https://i.imgur.com/m6oXWsc.png" width="30px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
-- <img src="https://i.imgur.com/O6Sogm7.png" width="30px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
+* <img src="linea1.gif" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
+* <img src="linea2.gif" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
+* <img src="linea3.gif" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
+* <img src="linea4.gif" width="25px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
 
 ---
 

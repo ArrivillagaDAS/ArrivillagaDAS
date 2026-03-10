@@ -29,23 +29,23 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <h1 style="margin: 0;">🐱</h1>
+      <img src="https://i.imgur.com/8Nf9vV0.png" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <h1 style="margin: 0;">😸</h1>
+      <img src="https://i.imgur.com/6S3vEEn.png" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <h1 style="margin: 0;">😽</h1>
+      <img src="https://i.imgur.com/m6oXWsc.png" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <h1 style="margin: 0;">😻</h1>
+      <img src="https://i.imgur.com/O6Sogm7.png" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <h1 style="margin: 0;">😼</h1>
+      <img src="https://i.imgur.com/VpE7x6p.png" width="60px">
     </td>
   </tr>
 </table>

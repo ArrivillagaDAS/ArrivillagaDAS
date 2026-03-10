@@ -29,23 +29,23 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="./gato.gif" width="50px">
+      <img src="gato1.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="./gato.gif" width="50px">
+      <img src="gato2.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="./gato.gif" width="50px">
+      <img src="gato3.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="./gato.gif" width="50px">
+      <img src="gato4.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="./gato.gif" width="50px">
+      <img src="gato5.gif" width="60px">
     </td>
   </tr>
 </table>

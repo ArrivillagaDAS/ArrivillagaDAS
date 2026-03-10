@@ -29,23 +29,23 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
+      <img src="./gato.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
+      <img src="./gato.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
+      <img src="./gato.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
+      <img src="./gato.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
+      <img src="./gato.gif" width="50px">
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35px"> ¡Hola! Soy [Tu Nombre]
 
-### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25px">
+### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="25px">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
@@ -12,10 +12,10 @@
 
 ### 🚀 Mi Mundo
 
-- <img src="https://i.imgur.com/8Nf9vV0.png" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
-- <img src="https://i.imgur.com/6S3vEEn.png" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
-- <img src="https://i.imgur.com/m6oXWsc.png" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
+- <img src="https://i.imgur.com/8Nf9vV0.png" width="30px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
+- <img src="https://i.imgur.com/6S3vEEn.png" width="30px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
+- <img src="https://i.imgur.com/m6oXWsc.png" width="30px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
+- <img src="https://i.imgur.com/O6Sogm7.png" width="30px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
 
 ---
 

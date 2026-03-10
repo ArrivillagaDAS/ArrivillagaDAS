@@ -44,4 +44,8 @@
       <img src="gato4.gif" width="60px">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+      <img src="gato5.gif" width="60px">
+    </td>
+  </tr>
+</table>

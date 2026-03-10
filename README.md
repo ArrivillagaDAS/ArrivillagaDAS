@@ -1,33 +1,25 @@
-### ¡Hola a todos! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="25px">
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35px"> ¡Hola! Soy [Tu Nombre]
 
-Me encanta programar mientras mi gato duerme en el teclado <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="25px">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="150px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn" width="100%" />
 </p>
+
+### 🚀 Mi Mundo
+
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmcyeGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C9x0nrDQ74BXoVstfW/giphy.gif" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmcyeGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCRJDo24UvMUsV68Lb/giphy.gif" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=70d6ff&height=100&section=header&text=Mis%20Proyectos&fontSize=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=100&section=header&text=Desbloqueando%20Habilidades%20👾&fontSize=40&animation=twinkling" width="100%" />
 </p>
 
-### 🚀 Sobre mí
-
-- 🐾 **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
-- 💻 **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo (o al menos mi código).
-- ⚡ **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
-- 🎨 **Próximo Nivel:** Estudiando diseño y desarrollo de videojuegos para convertir mis ideas en mundos épicos. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25px">
-
----
-
-### APRENDIENDO SOBRE:
-
-Proximamente new skills: 
+### 🛠️ Forjando mi Inventario:
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,22 +29,9 @@ Proximamente new skills:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📈 Mis Estadísticas
-
-¡Añadamos más movimiento con gráficos que se actualizan solos!
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1ueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unQ3IJU2RG7PEPN9QH/giphy.gif" width="200px">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy.gif" width="200px">
-</p>
-
-## Hi there 👋
-
 <!--
 **ArrivillagaDAS/ArrivillagaDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -29,38 +29,23 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://i.imgur.com/8Nf9vV0.png" width="60px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://i.imgur.com/6S3vEEn.png" width="60px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://i.imgur.com/m6oXWsc.png" width="60px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://i.imgur.com/O6Sogm7.png" width="60px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://i.imgur.com/VpE7x6p.png" width="60px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA1bmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueGdtbmZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K97m8mS6D4Y6Y/giphy.gif" width="50px">
     </td>
   </tr>
 </table>
-
-<!--
-**ArrivillagaDAS/ArrivillagaDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

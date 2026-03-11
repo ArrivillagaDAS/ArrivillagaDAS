@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/sofi">
+  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608)">
     <img src="https://img.shields.io/badge/Spotify-Escuchando_ahora-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>

@@ -65,11 +65,11 @@
 </p>
 
 <p align="center">
-  <a href="http://googleusercontent.com/spotify.com/7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofi&repo=Sofi&theme=tokyonight&show_owner=true" alt="Spotify" />
+  <a href="https://open.spotify.com/user/sofi">
+    <img src="https://img.shields.io/badge/Spotify-Escuchando_ahora-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
 <p align="center">
-  <img src="gato6.gif" width="25%" />
+  <img src="gato6.gif" width="15%" />
 </p>

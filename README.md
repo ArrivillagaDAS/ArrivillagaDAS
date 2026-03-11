@@ -68,7 +68,7 @@
   <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608">
     <img src="https://lanyard.main-repo.com/api/884289084619628556?theme=dark&bg=10,8a2be2&borderRadius=10px" alt="Spotify" />
   </a>
-</p>
+</p>>
 
 <p align="center">
   <img src="gato6.gif" width="15%" />

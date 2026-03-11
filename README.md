@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/Sofi">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=884289084619628556&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true&bar_color=10,8a2be2&v=1" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pa5ng53t3kunyqhebm5tfhjcqm&cover_image=true&theme=default&show_offline=false&background_color=6b4993&interchange=false&profanity=false&bar_color=d73737">
   </a>
 </p>
 

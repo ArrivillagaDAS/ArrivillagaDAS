@@ -80,7 +80,6 @@
   </table>
 </p>
 
----
 
 ### 🐍 MI CONTRIBUCIÓN SNAKE:
 

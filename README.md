@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="gato6.gif" width="100%" />
+  <img src="gato6.gif" width="50%" />
 </p>

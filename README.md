@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff00ff,00ffff&height=200&section=header&text=Sobre%20Mí%20🐾&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
@@ -78,4 +82,8 @@
       </td>
     </tr>
   </table>
+</p>
+
+<p align="right">
+  <sub>Última actualización: </sub>
 </p>

@@ -85,5 +85,5 @@
 ### 🐍 MI CONTRIBUCIÓN SNAKE:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArrivillagaDAS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ArrivillagaDAS/ArrivillagaDAS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>

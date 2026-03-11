@@ -56,15 +56,20 @@
 
 ---
 
-### 📱 HABLEMOS POR AQUÍ:
+### 📱 CONECTEMOS CONMIGO:
 
 <p align="center">
-  <a href="https://discord.com/users/ceofia">
+  <a href="https://discord.com/users/884289084619628556">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <br><br>
-  <b>🎵 Mi sintonía actual:</b><br>
-  <a href="TU_LINK_DE_PERFIL_SPOTIFY">
-    <img src="[https://novatorem-spotify-readme.vercel.app/api/now-playing?open](https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=e4470e0c50084e04)" alt="Spotify" width="350px">
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=35a411c88329422d">
+    <img src="https://lanyard.main-repo.com/api/884289084619628556?theme=dark&bg=10,8a2be2&borderRadius=10px" alt="Spotify Status" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXonF/giphy.gif" width="150px">
 </p>

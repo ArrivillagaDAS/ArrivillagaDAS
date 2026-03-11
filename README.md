@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <a href="http://googleusercontent.com/spotify.com/8">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="http://googleusercontent.com/spotify.com/7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofi&repo=Sofi&theme=tokyonight&show_owner=true" alt="Spotify" />
   </a>
 </p>
 

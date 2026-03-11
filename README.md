@@ -3,7 +3,7 @@
 ### Me encanta programar mientras mi gato duerme en el teclado <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A951ED&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+SOFI!+✨;Desarrolladora+de+Mundos;Me+gusta+el+Café+y+el+Código;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=10,8a2be2,ff00ff&center=true&vCenter=true&width=550&lines=HOLA!+soy+sofiiiii;Bienvenido+a+mi+perfil!;descubre+un+poco+acerca+de+mi" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 🚀 Mi Mundo
 
-* 🐱 **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
-* ⚡ **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
-* ☕ **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
-* 🎮 **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
+* <img src="linea1.gif" width="25px"> **Pasión:** Programación, videojuegos y, por supuesto, los gatos.
+* <img src="linea2.gif" width="25px"> **Enfoque actual:** Aprendiendo nuevas tecnologías para dominar el mundo.
+* <img src="linea3.gif" width="25px"> **Dato curioso:** Mi código corre gracias a una mezcla de café y ronroneos.
+* <img src="linea4.gif" width="25px"> **Próximo Nivel:** Diseñando mundos épicos en el desarrollo de videojuegos.
 
 ---
 
@@ -33,29 +33,38 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNodmt6M3A4eHh3Y2NqZzZqNnpueW90eXpueW90eXpueW90eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L95W4wv8nnb9K/giphy.gif" width="60px">
+      <img src="gato1.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="60px">
+      <img src="gato2.gif" width="60px">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="60px">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="gato3.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nm8ZPOGOwRpkI/giphy.gif" width="60px">
+      <img src="gato4.gif" width="60px">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNueW90eXpueW90eXpueW90eXpueW90eXpueW90eXpueW90ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" width="60px">
+      <img src="gato5.gif" width="60px">
     </td>
   </tr>
 </table>
 
+---
+
+### 📱 HABLEMOS POR AQUÍ:
+
 <p align="center">
-  <br>
-  <b>🎵 Escuchando ahora:</b><br>
-  <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Spotify" width="350px">
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br><br>
+  <b>🎵 Mi sintonía actual:</b><br>
+  <a href="TU_LINK_DE_PERFIL_SPOTIFY">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Spotify" width="350px">
+  </a>
 </p>

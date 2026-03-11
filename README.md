@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=884289084619628556&theme=dark&v=4" alt="Spotify" width="350px">
+  <a href="https://open.spotify.com/user/Sofi">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=884289084619628556&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true&bar_color=10,8a2be2&v=1" />
   </a>
 </p>
 

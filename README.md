@@ -66,9 +66,9 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Spotify" width="350px">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Escuchando ahora" width="350px">
   </a>
-</p>>
+</p>
 
 <p align="center">
   <img src="gato6.gif" width="15%" />

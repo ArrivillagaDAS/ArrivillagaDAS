@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=35a411c88329422d">
-    <img src="https://lanyard.main-repo.com/api/884289084619628556?theme=dark&bg=10,8a2be2&borderRadius=10px" alt="Spotify Status" />
+  <a href="https://open.spotify.com/user/Sofi">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=884289084619628556&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true&bar_color=10,8a2be2&bar_color_cover=false" />
   </a>
 </p>
 

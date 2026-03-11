@@ -65,8 +65,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pa5ng53t3kunyqhebm5tfhjcqm&cover_image=true&theme=default&show_offline=false&background_color=6b4993&interchange=false&profanity=false&bar_color=d73737" align="middle">
-  </a>
-  <img src="gato6.gif" width="15%" align="middle" />
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="60%">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pa5ng53t3kunyqhebm5tfhjcqm&cover_image=true&theme=default&show_offline=false&background_color=6b4993&interchange=false&profanity=false&bar_color=d73737" width="100%">
+        </a>
+      </td>
+      <td width="10%">&nbsp;</td>
+      <td align="center" width="30%">
+        <img src="gato6.gif" width="100%">
+      </td>
+    </tr>
+  </table>
 </p>

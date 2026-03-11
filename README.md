@@ -59,12 +59,12 @@
 ### 📱 HABLEMOS POR AQUÍ:
 
 <p align="center">
-  <a href="https://discord.com/users/TU_ID_DE_DISCORD">
+  <a href="https://discord.com/users/ceofia">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <br><br>
   <b>🎵 Mi sintonía actual:</b><br>
   <a href="TU_LINK_DE_PERFIL_SPOTIFY">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Spotify" width="350px">
+    <img src="[https://novatorem-spotify-readme.vercel.app/api/now-playing?open](https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=e4470e0c50084e04)" alt="Spotify" width="350px">
   </a>
 </p>

@@ -56,7 +56,7 @@
 
 ---
 
-### 📱 CONECTEMOS CONMIGO:
+### 📱 CONECTA CONMIGO:
 
 <p align="center">
   <a href="https://discord.com/users/884289084619628556">
@@ -65,10 +65,10 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608)">
-    <img src="https://img.shields.io/badge/Spotify-Escuchando_ahora-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <a href="https://open.spotify.com/user/31pa5ng53t3kunyqhebm5tfhjcqm?si=ef2bd3ec4e144608">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?open" alt="Spotify" width="350px">
   </a>
-</p>
+</p>>
 
 <p align="center">
   <img src="gato6.gif" width="15%" />

@@ -1,0 +1,117 @@
+<svg viewBox="0 0 1100 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e21"/>
+      <stop offset="55%" stop-color="#121736"/>
+      <stop offset="100%" stop-color="#0a0e21"/>
+    </linearGradient>
+
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff3b0" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#ffe066" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffe066" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="starFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff6cf"/>
+      <stop offset="100%" stop-color="#ffd93d"/>
+    </linearGradient>
+
+    <linearGradient id="pillFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1f42"/>
+      <stop offset="100%" stop-color="#22284d"/>
+    </linearGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#d8aab6" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- background card -->
+  <rect x="4" y="4" width="1092" height="392" rx="26" fill="url(#bg)" stroke="#2a2f57" stroke-width="1.5"/>
+  <rect x="4" y="4" width="1092" height="392" rx="26" fill="url(#grid)"/>
+
+  <!-- sparkle stars scattered, twinkling -->
+  <g fill="url(#starFill)">
+    <path d="M 940 55 L 946 70 L 961 76 L 946 82 L 940 97 L 934 82 L 919 76 L 934 70 Z">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1015 140 L 1019 150 L 1029 154 L 1019 158 L 1015 168 L 1011 158 L 1001 154 L 1011 150 Z">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 855 30 L 858 38 L 866 41 L 858 44 L 855 52 L 852 44 L 844 41 L 852 38 Z">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 60 60 L 63 68 L 71 71 L 63 74 L 60 82 L 57 74 L 49 71 L 57 68 Z">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1005 260 L 1009 270 L 1019 274 L 1009 278 L 1005 288 L 1001 278 L 991 274 L 1001 270 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 500 40 L 503 48 L 511 51 L 503 54 L 500 62 L 497 54 L 489 51 L 497 48 Z">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- constellation lines: thin straight dashed lines, subtle slow-moving dash animation -->
+  <g stroke-linecap="round">
+    <line x1="180" y1="60" x2="900" y2="320" stroke="#d8aab6" stroke-width="1" stroke-opacity="0.22" stroke-dasharray="4 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="26s" repeatCount="indefinite"/>
+    </line>
+    <line x1="480" y1="25" x2="1050" y2="280" stroke="#c98fa0" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="4 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="30s" repeatCount="indefinite"/>
+    </line>
+    <line x1="430" y1="15" x2="120" y2="270" stroke="#e8c4cc" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="4 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="24s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- orbit ring hinting rotation around the star, actually rotating -->
+  <ellipse cx="905" cy="190" rx="115" ry="42" fill="none" stroke="#d8aab6" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="2 5">
+    <animateTransform attributeName="transform" type="rotate" from="-18 905 190" to="342 905 190" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- signature element: glowing star badge, pulsing -->
+  <circle cx="905" cy="190" r="95" fill="url(#starGlow)" filter="url(#softBlur)">
+    <animate attributeName="r" values="90;100;90" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="905" cy="190" r="72" fill="none" stroke="#d8aab6" stroke-width="1.5" stroke-opacity="0.5"/>
+  <circle cx="905" cy="190" r="86" fill="none" stroke="#ffe066" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="2 6"/>
+
+  <path d="M 905 130
+           L 921 176
+           L 969 176
+           L 930 204
+           L 945 250
+           L 905 222
+           L 865 250
+           L 880 204
+           L 841 176
+           L 889 176 Z"
+        fill="url(#starFill)" stroke="#ffb703" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <circle cx="998" cy="140" r="5" fill="#e8c4cc"/>
+  <circle cx="820" cy="255" r="5" fill="#c98fa0"/>
+  <circle cx="965" cy="255" r="4" fill="#ffe066"/>
+
+  <!-- handle -->
+  <text x="66" y="90" font-family="'Courier New', monospace" font-weight="700" font-size="19" fill="#8fe0a8" letter-spacing="1">angelasofiaa@github</text>
+
+  <!-- name, pixel-style blocky font -->
+  <text x="63" y="168" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#f5f0f2" letter-spacing="1">Angela Sofia</text>
+  <text x="63" y="222" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#e8c4cc" letter-spacing="1">Arrivillaga</text>
+
+  <!-- subtitle -->
+  <text x="66" y="260" font-family="'Trebuchet MS', Verdana, sans-serif" font-weight="700" font-size="24" fill="#d3a6b0">Software Developer Junior in process</text>
+
+  <!-- pill: stack -->
+  <rect x="66" y="284" width="330" height="46" rx="14" fill="url(#pillFill)" stroke="#3a2f4a" stroke-width="1"/>
+  <text x="90" y="314" font-family="'Courier New', monospace" font-weight="700" font-size="20" fill="#f0d3d9">HTML + CSS + JS + Python</text>
+
+  <!-- tagline -->
+  <text x="63" y="358" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="17" fill="#9c7480">Guatemala | Estudiante | Aprendiendo cada dia</text>
+</svg>

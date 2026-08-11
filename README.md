@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/banner.profile.svg" width="100%"  />
+  <img src="assets/banner-github.svg" width="100%" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=900&color=FF6FB5&center=true&vCenter=true&width=920&lines=Desarrolladora Junior en formación;Enfoque en Frontend;Futura ingeniera de videojuegos;Esfuerzo y dedicación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=900&color=FF6FB5&center=true&vCenter=true&width=920&lines=Desarrolladora+Junior+en+formacion;Enfoque+en+Frontend;Futura+ingeniera+de+videojuegos;Esfuerzo+y+dedicacion" alt="Typing SVG" />
 </div>
 
 <div align="center">

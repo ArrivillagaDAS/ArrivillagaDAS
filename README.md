@@ -69,32 +69,6 @@ tools:     Git, GitHub, VS Code, Postman, Docker, Canva
  
 <br />
 
-## 🔵 **Misiones destacadas**
- 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🟣 {{PROYECTO_1_NOMBRE}}</h3>
-      <p>{{PROYECTO_1_DESCRIPCION}}</p>
-      <p><strong>Stack:</strong> {{PROYECTO_1_TECNOLOGIAS}}</p>
-      <a href="{{PROYECTO_1_URL}}">Abrir proyecto</a>
-    </td>
-    <td width="33%">
-      <h3>🟣 {{PROYECTO_2_NOMBRE}}</h3>
-      <p>{{PROYECTO_2_DESCRIPCION}}</p>
-      <p><strong>Stack:</strong> {{PROYECTO_2_TECNOLOGIAS}}</p>
-      <a href="{{PROYECTO_2_URL}}">Abrir proyecto</a>
-    </td>
-    <td width="33%">
-      <h3>🟣 {{PROYECTO_3_NOMBRE}}</h3>
-      <p>{{PROYECTO_3_DESCRIPCION}}</p>
-      <p><strong>Stack:</strong> {{PROYECTO_3_TECNOLOGIAS}}</p>
-      <a href="{{PROYECTO_3_URL}}">Abrir proyecto</a>
-    </td>
-  </tr>
-</table>
-<br />
-
 ## 🔵 **Arquitectura de mis soluciones**
  
 ```mermaid

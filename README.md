@@ -65,7 +65,7 @@ frontend:  HTML, CSS, JavaScript
 backend:   Python
 databases: MySQL
 tools:     Git, GitHub, VS Code, Postman, Docker
-ai:        Claude Code, ChatGPT, prompt engineering
+ai:        Manejo de herramientas de IA aplicadas al desarrollo
 ```
  
 <br />
@@ -78,7 +78,7 @@ flowchart LR
   B --> C["Datos<br/>MySQL"]
   D["Workflow<br/>Git, GitHub, VS Code, Postman, Docker"] --> A
   D --> B
-  E["IA<br/>Claude Code, ChatGPT"] --> D
+  E["IA<br/>Manejo de herramientas de IA"] --> D
 
   classDef rosa fill:#FF6FB5,stroke:#1B1F3B,stroke-width:2px,color:#FFF3E4;
   classDef navy fill:#1B1F3B,stroke:#FF6FB5,stroke-width:2px,color:#FFF3E4;
